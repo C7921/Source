@@ -213,5 +213,9 @@
         "extends": [
             "@tryghost:theme"
         ]
+    },
+    "volta": {
+        "node": "20.19.2",
+        "yarn": "4.9.1"
     }
 }
