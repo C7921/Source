@@ -9,6 +9,17 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Yarn Files
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Keep Following yarn files
+# .yarn/plugins
+# .yarn/releases/
+# .yarn/sdks/
+
 # Build artifacts
 .DS_Store
 .env
